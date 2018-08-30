@@ -1,4 +1,4 @@
 # learn-machineLearning
 first repository to start learning machine learning
 
-I'm begin learn every thing become a data scientist.
+I'm begin learn everything to become a data scientist.
